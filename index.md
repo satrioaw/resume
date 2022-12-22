@@ -2,11 +2,11 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Satrio Arif Wicaksono
+Back-end Developer, Chainsaw Operator, Farmers.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="ssatrioaw@gmail.com">ssatrioaw@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
@@ -27,7 +27,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
+`2007-2014`
 __The King's School, Grantham.__
 
 `June 1661 - now`
