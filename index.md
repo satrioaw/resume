@@ -71,21 +71,22 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## Work Experience
 
-`1600`
-__Royal Mint__, London
+`2022 - Now`
+__`UNIVERSITAS INSAN CITA INDONESIA (UICI)`__, Jakarta
 
-- Warden
-- Minted coins
+- SysAdmin
+- Web Developer
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`July 2021 -  July 2022`
+__Arkademi Daya Indonesia__, Jakarta
+- Backend Developer
+  -Tech Stack( Laravel, RabbitMQ, Sqlite, Mysql)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2022 -->
 
 
