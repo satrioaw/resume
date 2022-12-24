@@ -81,8 +81,8 @@ __`UNIVERSITAS INSAN CITA INDONESIA (UICI)`__, Jakarta
 
 `July 2021 -  July 2022`
 __Arkademi Daya Indonesia__, Jakarta
-- Backend Developer
-  -Tech Stack( Laravel, RabbitMQ, Sqlite, Mysql)
+- __Backend Developer__
+- Tech Stack( Laravel, RabbitMQ, Sqlite, Mysql)
 
 
 <!-- ### Footer
