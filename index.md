@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Satrio Arif Wicaksono CV
 ---
 # Satrio Arif Wicaksono
 Back-end Developer, Chainsaw Operator, Farmers.
 
 <div id="webaddress">
-<a href="ssatrioaw@gmail.com">ssatrioaw@gmail.com</a>
+<a href="satrio@duck.com">satrio@duck.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Work as SysAdmin and Web Developer in University Insan Cita Indonesia / [UICI](https://uici.ac.id/)
 
 ### Specialized in
 
