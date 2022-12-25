@@ -28,7 +28,7 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 ## Education
 
 `2007-2014`
-__The King's School, Grantham.__
+__Sriwijaya University, Palembang.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
