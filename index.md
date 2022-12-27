@@ -74,7 +74,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 ## Work Experience
 
 `2022 - Now`
-__`UNIVERSITAS INSAN CITA INDONESIA (UICI)`__, Jakarta
+__UNIVERSITAS INSAN CITA INDONESIA (UICI)__, Jakarta
 
 - SysAdmin
 - Web Developer
